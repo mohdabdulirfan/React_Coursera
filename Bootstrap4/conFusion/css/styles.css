@@ -56,9 +56,9 @@ body {
 #exampleModal #r_modalhead {
   background-color: #512DA8; }
   #exampleModal #r_modalhead #exampleModalLabel {
-    color: #ddd; }
+    color: floralwhite; }
   #exampleModal #r_modalhead #closebutton {
-    color: #ddd; }
+    color: floralwhite; }
 
 #exampleModal #r_modalbody {
   background-color: #D1C4E9; }
@@ -66,9 +66,9 @@ body {
 #loginModal #l_modallabel {
   background-color: #512DA8; }
   #loginModal #l_modallabel #l_modalhead {
-    color: #ddd; }
+    color: floralwhite; }
   #loginModal #l_modallabel #l_closebutton {
-    color: #ddd; }
+    color: floralwhite; }
 
 #loginModal #l_modalbody {
   background-color: #D1C4E9; }

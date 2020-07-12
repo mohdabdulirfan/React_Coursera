@@ -2,7 +2,7 @@ $lt-gray: #ddd;
 $background-dark: #512DA8;
 $background-light: #9575CD;
 $background-pale: #D1C4E9;
-
+$text-color: floralwhite;
 // Height variables
 $carousel-item-height: 300px;
 @mixin zero-margin($pad-up-dn, $pad-left-right) {
@@ -75,10 +75,10 @@ body{
     #r_modalhead{
         background-color: $background-dark;
         #exampleModalLabel{
-            color: $lt-gray;
+            color: $text-color;
         }
         #closebutton{
-            color: $lt-gray;
+            color: $text-color;
         }
     }
     #r_modalbody{
@@ -89,11 +89,12 @@ body{
     #l_modallabel{
         background-color: $background-dark;
         #l_modalhead{
-            color: $lt-gray;
+            color: $text-color;
         }
         #l_closebutton{
-            color: $lt-gray;
+            color: $text-color;
         }
+        
     }
     #l_modalbody{
         background-color: $background-pale;
