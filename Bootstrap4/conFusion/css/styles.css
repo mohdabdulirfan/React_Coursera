@@ -52,3 +52,23 @@ body {
   position: absolute;
   bottom: 0px;
   z-index: 1; }
+
+#exampleModal #r_modalhead {
+  background-color: #512DA8; }
+  #exampleModal #r_modalhead #exampleModalLabel {
+    color: #ddd; }
+  #exampleModal #r_modalhead #closebutton {
+    color: #ddd; }
+
+#exampleModal #r_modalbody {
+  background-color: #D1C4E9; }
+
+#loginModal #l_modallabel {
+  background-color: #512DA8; }
+  #loginModal #l_modallabel #l_modalhead {
+    color: #ddd; }
+  #loginModal #l_modallabel #l_closebutton {
+    color: #ddd; }
+
+#loginModal #l_modalbody {
+  background-color: #D1C4E9; }

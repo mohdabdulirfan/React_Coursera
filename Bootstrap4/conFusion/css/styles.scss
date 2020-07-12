@@ -71,3 +71,32 @@ body{
     bottom: 0px;
     z-index: 1;
 }
+#exampleModal {
+    #r_modalhead{
+        background-color: $background-dark;
+        #exampleModalLabel{
+            color: $lt-gray;
+        }
+        #closebutton{
+            color: $lt-gray;
+        }
+    }
+    #r_modalbody{
+        background-color: $background-pale;
+    }
+}
+#loginModal {
+    #l_modallabel{
+        background-color: $background-dark;
+        #l_modalhead{
+            color: $lt-gray;
+        }
+        #l_closebutton{
+            color: $lt-gray;
+        }
+    }
+    #l_modalbody{
+        background-color: $background-pale;
+    }
+
+}
